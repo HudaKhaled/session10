@@ -3,3 +3,4 @@ function sayHello(name = "user", salary = 1000, age = 30) {
 }
 
 sayHello(undefined, 10, 1);
+alert("")
